@@ -5,21 +5,12 @@ import { nextTick } from "vue";
 const routes = [
   {
     path: "/",
-    name: "hxh",
+    name: "berserk",
     component: SeriesInfo,
     meta: {
-      dir: "HunterXHunter",
-      title: "HUNTER×HUNTER",
+      dir: "Berserk",
+      title: "BERSERK",
     },
-  },
-  {
-    path: "/YuYuHakusho/",
-    name: "yuyu",
-    meta: {
-      dir: "YuYuHakusho",
-      title: "Yu Yu Hakusho",
-    },
-    component: SeriesInfo,
   },
   {
     path: "/:pathMatch(.*)*",

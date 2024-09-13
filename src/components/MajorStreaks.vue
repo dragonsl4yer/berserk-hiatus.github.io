@@ -169,6 +169,14 @@ table {
     background-color: var(--release-color);
   }
 
+  &.released_ah {
+    background-color: var(--release_ah-color);
+  }
+
+  &.released_ya {
+    background-color: var(--release_ya-color);
+  }
+
   &.hiatus {
     background-color: var(--hiatus-color);
   }

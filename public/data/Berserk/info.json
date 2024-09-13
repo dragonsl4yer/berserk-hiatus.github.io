@@ -1,0 +1,48 @@
+{
+  "ongoing": true,
+  "streaks_threshold": 10,
+  "attribution": {
+    "sources": [
+      {
+        "name": "Comic Vine",
+        "link": "https://comicvine.gamespot.com/"
+      },
+      {
+        "name": "Berserk Wiki",
+        "link": "https://berserk.fandom.com/wiki/Category:Arcs"
+      }
+    ]
+  },
+  "arcs": [
+    {
+      "key": "hiatus-arc",
+      "color": "gray-300",
+      "name": "Great Hiatus Arc"
+    },
+    {
+      "key": "black-swordsman",
+      "color": "indigo-500",
+      "name": "Black Swordsman Arc"
+    },
+    {
+      "key": "golden-age",
+      "color": "teal-500",
+      "name": "Golden Age Arc"
+    },
+    {
+      "key": "conviction",
+      "color": "amber-500",
+      "name": "Conviction Arc"
+    },
+    {
+      "key": "millenium-falcon",
+      "color": "green-500",
+      "name": "Millenium Falcon Arc"
+    },
+    {
+      "key": "fantasia",
+      "color": "deep-orange-500",
+      "name": "Fantasia Arc"
+    }
+  ]
+}

@@ -6,7 +6,6 @@
       <router-link v-for="route in routes" :to="{ name: route.name }">
         {{ route.meta.title }} Hiatus Chart
       </router-link>
-      <a href="https://www.jajanken.net/en/" target="_blank">Janjanken.net</a>
       <a href="https://www.reddit.com/r/HiatusCharts" target="_blank">
         r/HiatusCharts
       </a>

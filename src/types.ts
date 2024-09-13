@@ -1,9 +1,11 @@
 type IssueInfo = {
-  year: number;
+  year: number | string;
   number: number;
   chapter?: string | number;
   date?: string;
   released: boolean;
+  ah?: boolean;
+  ya?: boolean;
   arc?: string;
 };
 

@@ -81,10 +81,15 @@ export default defineComponent({
 
     const legend = new Map<string, ArcInfo>(
       Object.entries({
-        released: {
+        released_ah: {
           key: "released",
-          color: "released",
-          name: "Appears in Jump",
+          color: "released_ah",
+          name: "Appears in Animal House",
+        },
+        released_ya: {
+          key: "released",
+          color: "released_ya",
+          name: "Appears in Young Animal",
         },
         hiatus: {
           key: "hiatus",

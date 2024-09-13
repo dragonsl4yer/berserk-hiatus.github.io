@@ -1,7 +1,7 @@
 <template>
   <div class="rows" :class="afclass">
     <div class="chart-row" v-for="[year, issues] in issues">
-      <div class="year">
+      <div class="year" :id="`year${year}`">
         {{ year }}
       </div>
       <div class="issues-list">
@@ -31,10 +31,10 @@ export default defineComponent({
     issues(): Map<number, IssueInfo[]> {
       if (this.loading) {
         const group = new Map();
-        for (const year in [...Array(23).keys()]) {
+        for (const year in [...Array(35).keys()]) {
           const issues = [] as IssueInfo[];
           group.set(year, issues);
-          for (const number of [...Array(48).keys()]) {
+          for (const number of [...Array(24).keys()]) {
             issues.push({ year, number });
           }
         }
@@ -104,10 +104,24 @@ export default defineComponent({
   }
 }
 
+#year1992-2 {
+  @include md {
+        margin-right: $issueWidthMd + 162;
+      }
+      @include lg {
+        margin-right: $issueWidthLg + 202;
+      }
+}
+
 .rows {
   & > div:last-of-type {
     .year {
-      flex: 1;
+      @include md {
+        margin-right: $issueWidthMd + 333;
+      }
+      @include lg {
+        margin-right: $issueWidthLg + 418;
+      }
     }
 
     .issues-list {

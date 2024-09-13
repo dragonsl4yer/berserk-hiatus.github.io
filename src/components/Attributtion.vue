@@ -2,18 +2,18 @@
   <footer>
     <p>
       created by
-      <a target="_blank" href="https://www.reddit.com/user/rentzhx3/">
-        /u/rentzhx3
+      <a target="_blank" href="https://github.com/dragonsl4yer">
+        /dragonsl4yer
       </a>
     </p>
 
     <p>
-      inspired by
+      forked from and inspired by
       <a
         target="_blank"
-        href="https://hunterxhunter.fandom.com/wiki/User_blog:MrGenial11/Hunter_x_Hunter_Hiatus_Chart"
+        href="https://hiatus-hiatus.github.io/"
       >
-        MrGenial11's
+        rentzhx3's
       </a>
       hiatus chart
     </p>
