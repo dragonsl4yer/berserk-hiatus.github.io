@@ -4,8 +4,9 @@ type IssueInfo = {
   chapter?: string | number;
   date?: string;
   released: boolean;
-  ah?: boolean;
   arc?: string;
+  ah?: boolean;
+  double_issue?: boolean;
 };
 
 type ArcInfo = {

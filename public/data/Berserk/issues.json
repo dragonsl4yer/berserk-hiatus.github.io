@@ -70,17 +70,13 @@
     "released": false
   },
   {
-    "number": 10,
+    "number": "9-10",
     "year": 2024,
-    "arc": "fantasia",
     "released": true,
+    "arc": "fantasia",
     "chapter": 376,
-    "date": "2024-04-25"
-  },
-  {
-    "number": 9,
-    "year": 2024,
-    "released": false
+    "date": "2024-04-25",
+    "double_issue": true
   },
   {
     "number": 8,
@@ -135,7 +131,10 @@
   {
     "number": 22,
     "year": 2023,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 375,
+    "date": "2023-11-10"
   },
   {
     "number": 21,
@@ -150,7 +149,10 @@
   {
     "number": 19,
     "year": 2023,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 374,
+    "date": "2023-09-22"
   },
   {
     "number": 18,
@@ -190,17 +192,19 @@
   {
     "number": 11,
     "year": 2023,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 373,
+    "date": "2023-05-26"
   },
   {
-    "number": 10,
+    "number": "9-10",
     "year": 2023,
-    "released": false
-  },
-  {
-    "number": 9,
-    "year": 2023,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 372,
+    "date": "2023-04-28",
+    "double_issue": true
   },
   {
     "number": 8,
@@ -245,7 +249,10 @@
   {
     "number": 24,
     "year": 2022,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 371,
+    "date": "2022-12-09"
   },
   {
     "number": 23,
@@ -265,7 +272,10 @@
   {
     "number": 20,
     "year": 2022,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 370,
+    "date": "2022-10-14"
   },
   {
     "number": 19,
@@ -275,7 +285,10 @@
   {
     "number": 18,
     "year": 2022,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 369,
+    "date": "2022-09-09"
   },
   {
     "number": 17,
@@ -285,7 +298,10 @@
   {
     "number": 16,
     "year": 2022,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 368,
+    "date": "2022-08-12"
   },
   {
     "number": 15,
@@ -295,12 +311,18 @@
   {
     "number": 14,
     "year": 2022,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 367,
+    "date": "2022-07-08"
   },
   {
     "number": 13,
     "year": 2022,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": "365,366",
+    "date": "2022-06-24"
   },
   {
     "number": 12,
@@ -313,14 +335,10 @@
     "released": false
   },
   {
-    "number": 10,
+    "number": "9-10",
     "year": 2022,
-    "released": false
-  },
-  {
-    "number": 9,
-    "year": 2022,
-    "released": false
+    "released": false,
+    "double_issue": true
   },
   {
     "number": 8,
@@ -395,7 +413,10 @@
   {
     "number": 18,
     "year": 2021,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 364,
+    "date": "2021-09-10"
   },
   {
     "number": 17,
@@ -433,14 +454,10 @@
     "released": false
   },
   {
-    "number": 10,
+    "number": "9-10",
     "year": 2021,
-    "released": false
-  },
-  {
-    "number": 9,
-    "year": 2021,
-    "released": false
+    "released": false,
+    "double_issue": true
   },
   {
     "number": 8,
@@ -470,7 +487,10 @@
   {
     "number": 3,
     "year": 2021,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 363,
+    "date": "2021-01-22"
   },
   {
     "number": 2,
@@ -500,7 +520,10 @@
   {
     "number": 21,
     "year": 2020,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 362,
+    "date": "2020-10-23"
   },
   {
     "number": 20,
@@ -530,37 +553,31 @@
   {
     "number": 15,
     "year": 2020,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 361,
+    "date": "2020-07-22"
   },
   {
-    "number": 14,
+    "number": "13-14",
     "year": 2020,
-    "released": false
+    "released": false,
+    "double_issue": true
   },
   {
-    "number": 13,
+    "number": "11-12",
     "year": 2020,
-    "released": false
+    "released": false,
+    "double_issue": true
   },
   {
-    "number": 12,
+    "number": "9-10",
     "year": 2020,
-    "released": false
-  },
-  {
-    "number": 11,
-    "year": 2020,
-    "released": false
-  },
-  {
-    "number": 10,
-    "year": 2020,
-    "released": false
-  },
-  {
-    "number": 9,
-    "year": 2020,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 360,
+    "date": "2020-04-24",
+    "double_issue": true
   },
   {
     "number": 8,
@@ -640,7 +657,10 @@
   {
     "number": 17,
     "year": 2019,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 359,
+    "date": "2019-08-23"
   },
   {
     "number": 16,
@@ -673,14 +693,13 @@
     "released": false
   },
   {
-    "number": 10,
+    "number": "9-10",
     "year": 2019,
-    "released": false
-  },
-  {
-    "number": 9,
-    "year": 2019,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 358,
+    "date": "2020-04-26",
+    "double_issue": true
   },
   {
     "number": 8,

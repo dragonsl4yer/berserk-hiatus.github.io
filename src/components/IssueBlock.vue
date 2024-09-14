@@ -3,6 +3,7 @@
     class="issue"
     :class="{
       ah: issue.ah,
+      double_issue: issue.double_issue,
       released_ah: issue.released && issue.ah && !showArcs,
       released_ya: issue.released && !issue.ah && !showArcs,
       hiatus: !issue.released && !showArcs,
@@ -95,11 +96,22 @@ export default defineComponent({
     @include md {
     width: $issueWidthMd + 19px;
     height: 13px;
-  }
-  @include lg {
+    }
+    @include lg {
     width: $issueWidthLg + 24px;
     height: 17px;
+    }
   }
+
+  &.double_issue {
+    @include md {
+    width: $issueWidthMd + 19px;
+    height: 13px;
+    }
+    @include lg {
+    width: $issueWidthLg + 24px;
+    height: 17px;
+    }
   }
 
   @include md {
