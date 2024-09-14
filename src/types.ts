@@ -5,7 +5,6 @@ type IssueInfo = {
   date?: string;
   released: boolean;
   ah?: boolean;
-  ya?: boolean;
   arc?: string;
 };
 

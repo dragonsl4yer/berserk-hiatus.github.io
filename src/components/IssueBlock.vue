@@ -4,7 +4,7 @@
     :class="{
       ah: issue.ah,
       released_ah: issue.released && issue.ah && !showArcs,
-      released_ya: issue.released && issue.ya && !showArcs,
+      released_ya: issue.released && !issue.ah && !showArcs,
       hiatus: !issue.released && !showArcs,
       [color]: showArcs,
     }"

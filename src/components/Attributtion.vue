@@ -51,7 +51,7 @@
     <p>
       <a
         target="_blank"
-        href="https://github.com/hiatus-hiatus/hiatus-hiatus.github.io/"
+        href="https://github.com/dragonsl4yer/berserk-hiatus.github.io"
       >
         source code
       </a>

@@ -9,6 +9,9 @@
       <a href="https://www.reddit.com/r/HiatusCharts" target="_blank">
         r/HiatusCharts
       </a>
+      <a href="https://myanimelist.net/forum/?topicid=1842206" target="_blank">
+        Berserk Hiatus Chart 2020
+      </a>
     </div>
   </div>
 </template>

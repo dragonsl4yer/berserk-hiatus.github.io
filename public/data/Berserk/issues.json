@@ -72,7 +72,10 @@
   {
     "number": 10,
     "year": 2024,
-    "released": false
+    "arc": "fantasia",
+    "released": true,
+    "chapter": 376,
+    "date": "2024-04-25"
   },
   {
     "number": 9,
@@ -1918,12 +1921,676 @@
     "number": 1,
     "year": 2009,
     "released": false
+  },
+  {
+    "number": 5,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 95
+  },
+  {
+    "number": 4,
+    "year": 1997,
+    "released": false
+  },
+  {
+    "number": 3,
+    "year": 1997,
+    "released": false
+  },
+  {
+    "number": 2,
+    "year": 1997,
+    "released": false
+  },
+  {
+    "number": 1,
+    "year": 1997,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 94
+  },
+  {
+    "number": 24,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 93
+  },
+  {
+    "number": 23,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 92
+  },
+  {
+    "number": 22,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 91
+  },
+  {
+    "number": 21,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 90
+  },
+  {
+    "number": 20,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 89
+  },
+  {
+    "number": 19,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 88
+  },
+  {
+    "number": 18,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 87
+  },
+  {
+    "number": 17,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 86
+  },
+  {
+    "number": 16,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 85
+  },
+  {
+    "number": 15,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 84
+  },
+  {
+    "number": 14,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 83
+  },
+  {
+    "number": 13,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 82
+  },
+  {
+    "number": 12,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 81
+  },
+  {
+    "number": 11,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 80
+  },
+  {
+    "number": 10,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 79
+  },
+  {
+    "number": 9,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 78
+  },
+  {
+    "number": 8,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 77
+  },
+  {
+    "number": 7,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 76
+  },
+  {
+    "number": 6,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 75
+  },
+  {
+    "number": 5,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 74
+  },
+  {
+    "number": 4,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 73
+  },
+  {
+    "number": 3,
+    "year": 1996,
+    "released": false
+  },
+  {
+    "number": 2,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 72
+  },
+  {
+    "number": 1,
+    "year": 1996,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 71
+  },
+  {
+    "number": 24,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 70
+  },
+  {
+    "number": 23,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 69
+  },
+  {
+    "number": 22,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 68
+  },
+  {
+    "number": 21,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 67
+  },
+  {
+    "number": 20,
+    "year": 1995,
+    "released": false
+  },
+  {
+    "number": 19,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 66
+  },
+  {
+    "number": 18,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 65
+  },
+  {
+    "number": 17,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 64
+  },
+  {
+    "number": 16,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 63
+  },
+  {
+    "number": 15,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 62
+  },
+  {
+    "number": 14,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 61
+  },
+  {
+    "number": 13,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 60
+  },
+  {
+    "number": 12,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 59
+  },
+  {
+    "number": 11,
+    "year": 1995,
+    "released": false
+  },
+  {
+    "number": 10,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 58
+  },
+  {
+    "number": 9,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 57
+  },
+  {
+    "number": 8,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 56
+  },
+  {
+    "number": 7,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 55
+  },
+  {
+    "number": 6,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 54
+  },
+  {
+    "number": 5,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 53
+  },
+  {
+    "number": 4,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 52
+  },
+  {
+    "number": 3,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 51
+  },
+  {
+    "number": 2,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 50
+  },
+  {
+    "number": 1,
+    "year": 1995,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 49
+  },
+  {
+    "number": 24,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 48
+  },
+  {
+    "number": 23,
+    "year": 1994,
+    "released": false
+  },
+  {
+    "number": 22,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 47
+  },
+  {
+    "number": 21,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 46
+  },
+  {
+    "number": 20,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 45
+  },
+  {
+    "number": 19,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 44
+  },
+  {
+    "number": 18,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 43
+  },
+  {
+    "number": 17,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 42
+  },
+  {
+    "number": 16,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 41
+  },
+  {
+    "number": 15,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 40
+  },
+  {
+    "number": 14,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 39
+  },
+  {
+    "number": 13,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 38
+  },
+  {
+    "number": 12,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 37
+  },
+  {
+    "number": 11,
+    "year": 1994,
+    "released": false
+  },
+  {
+    "number": 10,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 36
+  },
+  {
+    "number": 9,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 35
+  },
+  {
+    "number": 8,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 34
+  },
+  {
+    "number": 7,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 33
+  },
+  {
+    "number": 6,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 32
+  },
+  {
+    "number": 5,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 31
+  },
+  {
+    "number": 4,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 30
+  },
+  {
+    "number": 3,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 29
+  },
+  {
+    "number": 2,
+    "year": 1994,
+    "released": false
+  },
+  {
+    "number": 1,
+    "year": 1994,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 28
+  },
+  {
+    "number": 24,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 27
+  },
+  {
+    "number": 23,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 26
+  },
+  {
+    "number": 22,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 25
+  },
+  {
+    "number": 21,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 24
+  },
+  {
+    "number": 20,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 23
+  },
+  {
+    "number": 19,
+    "year": 1993,
+    "released": false
+  },
+  {
+    "number": 18,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 22
+  },
+  {
+    "number": 17,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 21
+  },
+  {
+    "number": 16,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 20
+  },
+  {
+    "number": 15,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 19
+  },
+  {
+    "number": 14,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 18
+  },
+  {
+    "number": 13,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 17
+  },
+  {
+    "number": 12,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 16
+  },
+  {
+    "number": 11,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 15
+  },
+  {
+    "number": 10,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 14
+  },
+  {
+    "number": 9,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 13
+  },
+  {
+    "number": 8,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 12
+  },
+  {
+    "number": 7,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 11
+  },
+  {
+    "number": 6,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 10
+  },
+  {
+    "number": 5,
+    "year": 1993,
+    "released": false
+  },
+  {
+    "number": 4,
+    "year": 1993,
+    "released": true,
+    "arc": "golden-age",
+    "chapter": 9
   },
   {
     "number": 3,
     "year": 1993,
     "released": true,
-    "ya": true,
+    "arc": "golden-age",
     "chapter": 8,
     "date": "1993-01-22"
   },
@@ -1931,7 +2598,7 @@
     "number": 2,
     "year": 1993,
     "released": true,
-    "ya": true,
+    "arc": "golden-age",
     "chapter": 7,
     "date": "1993-01-08"
   },
@@ -1939,7 +2606,7 @@
     "number": 1,
     "year": 1993,
     "released": true,
-    "ya": true,
+    "arc": "golden-age",
     "chapter": 6,
     "date": "1992-12-25"
   },
@@ -1948,7 +2615,6 @@
     "year": "1992-2",
     "arc": "golden-age",
     "released": true,
-    "ya": true,
     "chapter": 5,
     "date": "1992-12-11"
   },
@@ -1957,7 +2623,6 @@
     "year": "1992-2",
     "arc": "golden-age",
     "released": true,
-    "ya": true,
     "chapter": 4,
     "date": "1992-11-27"
   },
@@ -1966,7 +2631,6 @@
     "year": "1992-2",
     "arc": "golden-age",
     "released": true,
-    "ya": true,
     "chapter": 3,
     "date": "1992-11-13"
   },
@@ -1975,7 +2639,6 @@
     "year": "1992-2",
     "arc": "golden-age",
     "released": true,
-    "ya": true,
     "chapter": 2,
     "date": "1992-10-21"
   },
@@ -1984,7 +2647,6 @@
     "year": "1992-2",
     "arc": "golden-age",
     "released": true,
-    "ya": true,
     "chapter": 1,
     "date": "1992-10-09"
   },
