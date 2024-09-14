@@ -25,17 +25,17 @@
     },
     {
       "key": "black-swordsman",
-      "color": "indigo-500",
+      "color": "blue-gray-500",
       "name": "Black Swordsman Arc"
     },
     {
       "key": "golden-age",
-      "color": "teal-500",
+      "color": "amber-500",
       "name": "Golden Age Arc"
     },
     {
       "key": "conviction",
-      "color": "amber-500",
+      "color": "indigo-500",
       "name": "Conviction Arc"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "key": "fantasia",
-      "color": "deep-orange-500",
+      "color": "purple-500",
       "name": "Fantasia Arc"
     }
   ]
