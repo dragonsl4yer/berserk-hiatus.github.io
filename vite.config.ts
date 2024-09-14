@@ -7,6 +7,7 @@ export default defineConfig(({ mode }) => {
   let aliases = {};
   if (mode == "production") {
     aliases = {
+      base: '/berserk-hiatus.github.io/',
       vue: "https://cdn.jsdelivr.net/npm/vue@3.2.4/dist/vue.runtime.esm-browser.prod.js",
       luxon: "https://cdn.jsdelivr.net/npm/luxon@2.0.2/build/es6/luxon.js",
       "chart.js":
