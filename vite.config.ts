@@ -28,5 +28,5 @@ import createIndexFiles from "./build/copy-plugin";
 
 export default defineConfig({
   base: '/berserk-hiatus.github.io/',
-  plugins: [vue(), createIndexFiles()],
+  plugins: [vue()],
 })
