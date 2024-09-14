@@ -1923,6 +1923,775 @@
     "released": false
   },
   {
+    "number": 24,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 192
+  },
+  {
+    "number": 23,
+    "year": 2001,
+    "released": false
+  },
+  {
+    "number": 22,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 191
+  },
+  {
+    "number": 21,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 190
+  },
+  {
+    "number": 20,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 189
+  },
+  {
+    "number": 19,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 188
+  },
+  {
+    "number": 18,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 187
+  },
+  {
+    "number": 17,
+    "year": 2001,
+    "released": false
+  },
+  {
+    "number": 16,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 184
+  },
+  {
+    "number": 15,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 183
+  },
+  {
+    "number": 14,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 182
+  },
+  {
+    "number": 13,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 181
+  },
+  {
+    "number": 12,
+    "year": 2001,
+    "released": false
+  },
+  {
+    "number": 11,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 180
+  },
+  {
+    "number": 10,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 179
+  },
+  {
+    "number": 9,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 178
+  },
+  {
+    "number": 8,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 177
+  },
+  {
+    "number": 7,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 186
+  },
+  {
+    "number": 6,
+    "year": 2001,
+    "released": true,
+    "arc": "millenium-falcon",
+    "chapter": 185
+  },
+  {
+    "number": 5,
+    "year": 2001,
+    "released": false
+  },
+  {
+    "number": 4,
+    "year": 2001,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 176
+  },
+  {
+    "number": 3,
+    "year": 2001,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 175
+  },
+  {
+    "number": 2,
+    "year": 2001,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 174
+  },
+  {
+    "number": 1,
+    "year": 2001,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 173
+  },
+  {
+    "number": 24,
+    "year": 2000,
+    "released": false
+  },
+  {
+    "number": 23,
+    "year": 2000,
+    "released":  true,
+    "arc": "conviction",
+    "chapter": 172
+  },
+  {
+    "number": 22,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 171
+  },
+  {
+    "number": 21,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 170
+  },
+  {
+    "number": 20,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 169
+  },
+  {
+    "number": 19,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 168
+  },
+  {
+    "number": 18,
+    "year": 2000,
+    "released": false
+  },
+  {
+    "number": 17,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 167
+  },
+  {
+    "number": 16,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 166
+  },
+  {
+    "number": 15,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 165
+  },
+  {
+    "number": 14,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 164
+  },
+  {
+    "number": 13,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 163
+  },
+  {
+    "number": 12,
+    "year": 2000,
+    "released": false
+  },
+  {
+    "number": 11,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 162
+  },
+  {
+    "number": 10,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 161
+  },
+  {
+    "number": 9,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 160
+  },
+  {
+    "number": 8,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 159
+  },
+  {
+    "number": 7,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 158
+  },
+  {
+    "number": 6,
+    "year": 2000,
+    "released": false
+  },
+  {
+    "number": 5,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 157
+  },
+  {
+    "number": 4,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 156
+  },
+  {
+    "number": 3,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 155
+  },
+  {
+    "number": 2,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 154
+  },
+  {
+    "number": 1,
+    "year": 2000,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 153
+  },
+  {
+    "number": 24,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 152
+  },
+  {
+    "number": 23,
+    "year": 1999,
+    "released": false
+  },
+  {
+    "number": 22,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 151
+  },
+  {
+    "number": 21,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 150
+  },
+  {
+    "number": 20,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 149
+  },
+  {
+    "number": 19,
+    "year": 1999,
+    "released": false
+  },
+  {
+    "number": 18,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 148
+  },
+  {
+    "number": 17,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 147
+  },
+  {
+    "number": 16,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 146
+  },
+  {
+    "number": 15,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 145
+  },
+  {
+    "number": 14,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 144
+  },
+  {
+    "number": 13,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 143
+  },
+  {
+    "number": 12,
+    "year": 1999,
+    "released": false
+  },
+  {
+    "number": 11,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 142
+  },
+  {
+    "number": 10,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 141
+  },
+  {
+    "number": 9,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 140
+  },
+  {
+    "number": 8,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 139
+  },
+  {
+    "number": 7,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 138
+  },
+  {
+    "number": 6,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 137
+  },
+  {
+    "number": 5,
+    "year": 1999,
+    "released": false
+  },
+  {
+    "number": 4,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 136
+  },
+  {
+    "number": 3,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 135
+  },
+  {
+    "number": 2,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 134
+  },
+  {
+    "number": 1,
+    "year": 1999,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 133
+  },
+  {
+    "number": 24,
+    "year": 1998,
+    "released": false
+  },
+  {
+    "number": 23,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 132
+  },
+  {
+    "number": 22,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 131
+  },
+  {
+    "number": 21,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 130
+  },
+  {
+    "number": 20,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 129
+  },
+  {
+    "number": 19,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 128
+  },
+  {
+    "number": 18,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 127
+  },
+  {
+    "number": 17,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 126
+  },
+  {
+    "number": 16,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 125
+  },
+  {
+    "number": 15,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 124
+  },
+  {
+    "number": 14,
+    "year": 1998,
+    "released": false
+  },
+  {
+    "number": 13,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 123
+  },
+  {
+    "number": 12,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 122
+  },
+  {
+    "number": 11,
+    "year": 1998,
+    "released": false
+  },
+  {
+    "number": 10,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 121
+  },
+  {
+    "number": 9,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 120
+  },
+  {
+    "number": 8,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 119
+  },
+  {
+    "number": 7,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 118
+  },
+  {
+    "number": 6,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 117
+  },
+  {
+    "number": 5,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 116
+  },
+  {
+    "number": 4,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 115
+  },
+  {
+    "number": 3,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 114
+  },
+  {
+    "number": 2,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 113
+  },
+  {
+    "number": 1,
+    "year": 1998,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 112
+  },
+  {
+    "number": 24,
+    "year": 1997,
+    "released": false
+  },
+  {
+    "number": 23,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 111
+  },
+  {
+    "number": 22,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 110
+  },
+  {
+    "number": 21,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 109
+  },
+  {
+    "number": 20,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 108
+  },
+  {
+    "number": 19,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 107
+  },
+  {
+    "number": 18,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 106
+  },
+  {
+    "number": 17,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 105
+  },
+  {
+    "number": 16,
+    "year": 1997,
+    "released": false
+  },
+  {
+    "number": 15,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 104
+  },
+  {
+    "number": 14,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 103
+  },
+  {
+    "number": 13,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 102
+  },
+  {
+    "number": 12,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 101
+  },
+  {
+    "number": 11,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 100
+  },
+  {
+    "number": 10,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 99
+  },
+  {
+    "number": 9,
+    "year": 1997,
+    "released": false
+  },
+  {
+    "number": 8,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 98
+  },
+  {
+    "number": 7,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 97
+  },
+  {
+    "number": 6,
+    "year": 1997,
+    "released": true,
+    "arc": "conviction",
+    "chapter": 96
+  },
+  {
     "number": 5,
     "year": 1997,
     "released": true,

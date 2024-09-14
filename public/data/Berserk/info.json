@@ -10,6 +10,10 @@
       {
         "name": "Berserk Wiki",
         "link": "https://berserk.fandom.com/wiki/Category:Arcs"
+      },
+      {
+        "name": "SkullKnight.net",
+        "link": "https://skullknight.net/releases/"
       }
     ]
   },
@@ -37,7 +41,7 @@
     {
       "key": "millenium-falcon",
       "color": "green-500",
-      "name": "Millenium Falcon Arc"
+      "name": "Falcon of the Millenium Empire Arc"
     },
     {
       "key": "fantasia",
