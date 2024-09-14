@@ -3,7 +3,7 @@ import vue from "@vitejs/plugin-vue";
 import createIndexFiles from "./build/copy-plugin";
 
 // https://vitejs.dev/config/
-/*export default defineConfig(({ mode }) => {
+export default defineConfig(({ mode }) => {
   let aliases = {};
   if (mode == "production") {
     aliases = {
@@ -24,9 +24,9 @@ import createIndexFiles from "./build/copy-plugin";
       },
     },
   };
-});*/
+});
 
-export default defineConfig({
+/*export default defineConfig({
   base: '/berserk-hiatus.github.io/',
   plugins: [vue()],
-})
+})*/
