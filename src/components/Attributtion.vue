@@ -15,7 +15,7 @@
       >
         rentzhx3's
       </a>
-      hiatus chart
+      HUNTER X HUNTER hiatus chart
     </p>
     <p v-if="authors">
       {{ seriesInfo.name }} data submited by

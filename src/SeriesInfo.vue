@@ -84,12 +84,12 @@ export default defineComponent({
         released_ah: {
           key: "released",
           color: "released_ah",
-          name: "Appears in Animal House",
+          name: "Published at Animal House",
         },
         released_ya: {
           key: "released",
           color: "released_ya",
-          name: "Appears in Young Animal",
+          name: "Published at Young Animal",
         },
         hiatus: {
           key: "hiatus",

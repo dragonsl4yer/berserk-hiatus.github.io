@@ -744,7 +744,9 @@
   {
     "number": 17,
     "year": 2018,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 357
   },
   {
     "number": 16,
@@ -774,7 +776,9 @@
   {
     "number": 11,
     "year": 2018,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": "356-2"
   },
   {
     "number": 10,
@@ -784,7 +788,9 @@
   {
     "number": 9,
     "year": 2018,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": "356-1"
   },
   {
     "number": 8,
@@ -794,7 +800,9 @@
   {
     "number": 7,
     "year": 2018,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 355
   },
   {
     "number": 6,
@@ -804,7 +812,9 @@
   {
     "number": 5,
     "year": 2018,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 354
   },
   {
     "number": 4,
@@ -814,7 +824,9 @@
   {
     "number": 3,
     "year": 2018,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 353
   },
   {
     "number": 2,
@@ -824,7 +836,9 @@
   {
     "number": 1,
     "year": 2018,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 352
   },
   {
     "number": 24,
@@ -884,7 +898,9 @@
   {
     "number": 13,
     "year": 2017,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 351
   },
   {
     "number": 12,
@@ -894,7 +910,9 @@
   {
     "number": 11,
     "year": 2017,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 350
   },
   {
     "number": 10,
@@ -904,7 +922,9 @@
   {
     "number": 9,
     "year": 2017,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 349
   },
   {
     "number": 8,
@@ -914,7 +934,9 @@
   {
     "number": 7,
     "year": 2017,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 348
   },
   {
     "number": 6,
@@ -974,7 +996,9 @@
   {
     "number": 19,
     "year": 2016,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 347
   },
   {
     "number": 18,
@@ -984,7 +1008,9 @@
   {
     "number": 17,
     "year": 2016,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 346
   },
   {
     "number": 16,
@@ -994,7 +1020,9 @@
   {
     "number": 15,
     "year": 2016,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 345
   },
   {
     "number": 14,
@@ -1004,7 +1032,9 @@
   {
     "number": 13,
     "year": 2016,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 344
   },
   {
     "number": 12,
@@ -1064,7 +1094,9 @@
   {
     "number": 1,
     "year": 2016,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 343
   },
   {
     "number": 24,
@@ -1074,7 +1106,9 @@
   {
     "number": 23,
     "year": 2015,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 342
   },
   {
     "number": 22,
@@ -1084,7 +1118,9 @@
   {
     "number": 21,
     "year": 2015,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 341
   },
   {
     "number": 20,
@@ -1094,7 +1130,9 @@
   {
     "number": 19,
     "year": 2015,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 340
   },
   {
     "number": 18,
@@ -1104,7 +1142,9 @@
   {
     "number": 17,
     "year": 2015,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 339
   },
   {
     "number": 16,
@@ -1114,7 +1154,9 @@
   {
     "number": 15,
     "year": 2015,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 338
   },
   {
     "number": 14,
@@ -1214,7 +1256,9 @@
   {
     "number": 19,
     "year": 2014,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 337
   },
   {
     "number": 18,
@@ -1229,7 +1273,9 @@
   {
     "number": 16,
     "year": 2014,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 336
   },
   {
     "number": 15,
@@ -1254,7 +1300,9 @@
   {
     "number": 11,
     "year": 2014,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 335
   },
   {
     "number": 10,
@@ -1269,7 +1317,9 @@
   {
     "number": 8,
     "year": 2014,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 334
   },
   {
     "number": 7,
@@ -1424,7 +1474,9 @@
   {
     "number": 1,
     "year": 2013,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 333
   },
   {
     "number": 24,
@@ -1444,12 +1496,16 @@
   {
     "number": 21,
     "year": 2012,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 332
   },
   {
     "number": 20,
     "year": 2012,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 328
   },
   {
     "number": 19,
@@ -1479,17 +1535,23 @@
   {
     "number": 14,
     "year": 2012,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 331
   },
   {
     "number": 13,
     "year": 2012,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 330
   },
   {
     "number": 12,
     "year": 2012,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 329
   },
   {
     "number": 11,
@@ -1529,12 +1591,16 @@
   {
     "number": 4,
     "year": 2012,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 327
   },
   {
     "number": 3,
     "year": 2012,
-    "released": false
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 326
   },
   {
     "number": 2,
