@@ -4,7 +4,7 @@ import { nextTick } from "vue";
 
 const routes = [
   {
-    path: "/",
+    path: "/berserk-hiatus.github.io",
     name: "berserk",
     component: SeriesInfo,
     meta: {
