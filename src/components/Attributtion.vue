@@ -2,8 +2,8 @@
   <footer>
     <p>
       created by
-      <a target="_blank" href="https://github.com/dragonsl4yer">
-        /dragonsl4yer
+      <a target="_blank" href="https://github.com/berserk-hiatus">
+        /berserk-hiatus
       </a>
     </p>
 
