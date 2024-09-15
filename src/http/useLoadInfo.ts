@@ -1,6 +1,6 @@
 import { onMounted, Ref, ref } from "vue";
 
-export default function useUserRepositories(dir: string): {
+export default function useUserRepositories(path: string, dir: string): {
   seriesInfo: Ref<SeriesInfo>;
   loading: Ref<Boolean>;
 } {
@@ -21,7 +21,7 @@ export default function useUserRepositories(dir: string): {
   onMounted(async () => {
     try {
       loading.value = true;
-      const response = await fetch(`/data/${dir}/info.json`);
+      const response = await fetch(`${path}/data/${dir}/info.json`);
       const data = await response.json();
 
       for (const arc of data.arcs) {

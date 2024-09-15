@@ -60,8 +60,8 @@ export default defineComponent({
     const route = useRoute();
 
     const showArcs = ref(false);
-    const { seriesInfo, loading: infoLoading } = useLoadInfo(route.meta.dir);
-    const { issues, loading: issuesLoading } = useLoadIssues(route.meta.dir);
+    const { seriesInfo, loading: infoLoading } = useLoadInfo(route.path, route.meta.dir);
+    const { issues, loading: issuesLoading } = useLoadIssues(route.path, route.meta.dir);
 
     const loading = computed(() => {
       return infoLoading.value || issuesLoading.value;
